@@ -24,11 +24,12 @@ header{
     color: white;
     margin-bottom: 5px;
 }
-#watch-live p{
+#watch-live a{
     background-color: #E02C6D;
     color: white;
     display: inline-block;
     padding: 10px 20px;
+    text-decoration: none;
 }
 #header-left{
     margin-left: 80px;
