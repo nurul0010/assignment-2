@@ -94,8 +94,26 @@ main{
 #player-box:hover #fav-text{
     display: block;
 }
-/* end main  */
+/* section-2 end */
+
+/* form  */
+#fieldset-both{
+    display: flex;
+    justify-content: center;
+}
+legend{
+    background-color: rgba(15, 75, 75, 0.911);
+    color: white;
+}
+.fieldset-style{
+   background-color: teal;
+}
+/* end form  */
+
 /* footer start  */
+
+/* section-1 */
+
 #logo{
     display: flex;
     flex-direction: column;
@@ -129,7 +147,7 @@ main{
         font-size: 36px;
     }
     #header-left{
-        margin-left: 0px;
+        margin-left: 20px;
     }
     #header-right img{
         width: 330px;
